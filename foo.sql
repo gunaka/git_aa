@@ -1,1 +1,2 @@
-select * from foo
+select * from foo;
+select 2;
